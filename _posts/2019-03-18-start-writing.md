@@ -4,7 +4,7 @@ title: 开始写吧~
 subtitle: 晨间写作第一天
 date: 2019-03-18
 author: Yuan
-header-img: img/home-bg-coffee.jpg
+header-img: img/post-bg-home.jpg
 catalog: true
 tags:
   - 生活 
